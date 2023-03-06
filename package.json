@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Node",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola-mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Sordi",
+  "license": "ISC"
+}
